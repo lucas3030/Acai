@@ -1,0 +1,51 @@
+body {
+	background-color: purple;
+}
+h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+}
+#img_box2 {
+    position: relative;
+    top: -5px;
+    right: -440px;
+    width: 300px;
+    border-radius: 90%;
+}
+
+#img_box3 {
+	position: relative;
+	top: -100px;
+	left: 90px;
+}
+
+
+.container * {
+    padding: 5px 10px;
+}
+
+#menus {
+	position: relative;
+	border:100px solid yellow;
+}
+
+#div2 {
+	position: relative;
+	border:100px solid white;
+}
+
+#container1{
+	color: purple;
+	font-size:30px;
+}
+#id1{
+	color:purple;
+	font-size:14px;
+}
+.table{
+    width: 300px;
+    margin: 2px;
+}
+
+}
